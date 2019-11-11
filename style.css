@@ -23,7 +23,7 @@ header {
     color: white;
     font-size: 5vh;
     height: 5vh;
-    background: linear-gradient(to top left, #66ccff 0%, #0099ff 101%);
+    background-color: rgba(0, 0, 0, 0.84);
     border-radius: 10px;
     padding: 5vh;
 
@@ -46,7 +46,8 @@ header {
     width: 30vw;
     height: 65vh;
 
-    background: linear-gradient(to top left, #66ccff 0%, #0099ff 101%);
+    background-color: rgba(0, 0, 0, 0.84);
+    /*background: linear-gradient(to top left, #66ccff 0%, #0099ff 101%);*/
     -webkit-box-shadow: 10px 10px 31px 0px rgba(0,0,0,0.25);
     -moz-box-shadow: 10px 10px 31px 0px rgba(0,0,0,0.25);
     box-shadow: 10px 10px 31px 0px rgba(0,0,0,0.25);
@@ -72,7 +73,7 @@ header {
     width: 30vh;
     height: 10vh;
     border-radius: 20px;
-    background: linear-gradient(to top left, #66ccff 0%, #0099ff 101%);
+    background-color: rgba(0, 0, 0, 0.84);
 
     color: white;
     font-size: 5vh;
